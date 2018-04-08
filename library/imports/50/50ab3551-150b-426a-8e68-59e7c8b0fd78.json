@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_c_dead_3_body",
+    "texture": "67ba9ea8-bb8e-4604-9efa-2bf72396ac86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      96
+    ]
+  }
+}

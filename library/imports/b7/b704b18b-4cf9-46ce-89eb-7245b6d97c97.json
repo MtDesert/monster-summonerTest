@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_c_ archer",
+    "texture": "caeb4ac0-5e7b-4430-a452-9757636b2ba9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      210
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_hero_upgrade",
+    "texture": "b32ee290-12db-435d-bfd6-12c999beadcb",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      132,
+      47
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      135,
+      49
+    ]
+  }
+}

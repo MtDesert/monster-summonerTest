@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_energy",
+    "texture": "9e4bf2f9-5607-4952-b068-1060a7e594e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      55,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      63
+    ]
+  }
+}

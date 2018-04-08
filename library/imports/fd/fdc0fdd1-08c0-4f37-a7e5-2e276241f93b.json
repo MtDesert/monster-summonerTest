@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "over_icon_boss2_on",
+    "texture": "b29ff470-71ce-43f3-8144-a4994bf933b8",
+    "atlas": "",
+    "rect": [
+      13,
+      5,
+      74,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      96
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_fz_fire",
+    "texture": "c1e20c26-44cf-4169-b270-a17c6357d17d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      568,
+      59
+    ],
+    "offset": [
+      0,
+      12.5
+    ],
+    "originalSize": [
+      568,
+      84
+    ]
+  }
+}

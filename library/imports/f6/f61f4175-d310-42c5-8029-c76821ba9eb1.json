@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_title_chongzhi",
+    "texture": "697b197d-0307-4bdb-8845-6f7b3cad2e72",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      123,
+      56
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      127,
+      59
+    ]
+  }
+}

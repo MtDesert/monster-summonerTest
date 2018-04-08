@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_supejones",
+    "texture": "b07bd8cc-e186-461e-ac2d-3f79db42ef03",
+    "atlas": "",
+    "rect": [
+      25,
+      35,
+      101,
+      86
+    ],
+    "offset": [
+      0.5,
+      -3
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

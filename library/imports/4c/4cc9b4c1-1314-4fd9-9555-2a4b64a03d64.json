@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_shadopharaoh",
+    "texture": "8c5f4801-06f0-4059-9622-4a14276e3909",
+    "atlas": "",
+    "rect": [
+      24,
+      31,
+      107,
+      95
+    ],
+    "offset": [
+      2.5,
+      -3.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

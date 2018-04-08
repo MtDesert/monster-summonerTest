@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "foe6_stand",
+    "texture": "82b0d014-b75e-4d70-b731-736a00638d3d",
+    "atlas": "a19453fb-f5e2-4c34-ab03-d01cbce65944",
+    "rect": [
+      441,
+      91,
+      48,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      79
+    ],
+    "rotated": 1
+  }
+}

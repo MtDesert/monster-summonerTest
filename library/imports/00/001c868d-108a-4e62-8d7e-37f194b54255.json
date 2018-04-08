@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "poker_number",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-bitmap-font.fnt",
+    "poker_number.png"
+  ],
+  "texture": {
+    "__uuid__": "0dc90227-ae4c-4b3f-bbdb-90c3eb9c5411"
+  },
+  "fontSize": 50
+}

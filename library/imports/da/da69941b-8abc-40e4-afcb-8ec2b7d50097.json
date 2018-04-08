@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuffy_bold_italic-charmap",
+    "texture": "25a26def-34f1-4060-84e9-bb2a83442498",
+    "atlas": "",
+    "rect": [
+      4,
+      20,
+      756,
+      871
+    ],
+    "offset": [
+      -2,
+      56.5
+    ],
+    "originalSize": [
+      768,
+      1024
+    ]
+  }
+}

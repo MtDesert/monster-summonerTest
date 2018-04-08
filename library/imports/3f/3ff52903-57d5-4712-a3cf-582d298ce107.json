@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_animation",
+    "texture": "5adc1b4f-61ba-4cfc-9cf6-fa15e5806615",
+    "atlas": "",
+    "rect": [
+      2,
+      5,
+      1005,
+      1097
+    ],
+    "offset": [
+      -5.5,
+      3.5
+    ],
+    "originalSize": [
+      1020,
+      1114
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "averia",
+    "texture": "1dc4c9bc-e06f-46ae-b8d4-af4534e21700",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      250,
+      240
+    ],
+    "offset": [
+      0,
+      6
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

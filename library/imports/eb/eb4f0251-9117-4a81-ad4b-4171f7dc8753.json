@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_触手",
+    "texture": "81b65965-a454-431e-b41a-dc553916132c",
+    "atlas": "",
+    "rect": [
+      47,
+      34,
+      61,
+      92
+    ],
+    "offset": [
+      2.5,
+      -5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

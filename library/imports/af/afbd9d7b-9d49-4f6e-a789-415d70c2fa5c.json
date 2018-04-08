@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_timeline_boss",
+    "texture": "8577d4a1-58d7-40e5-9831-94cf4a683211",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      26
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_erji",
+    "texture": "13914c2c-9baa-44fe-954d-aab039af27f3",
+    "atlas": "3d7076eb-dfd5-40ee-99dd-c990da49b857",
+    "rect": [
+      336,
+      284,
+      201,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      201,
+      66
+    ],
+    "rotated": 1
+  }
+}

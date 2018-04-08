@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_music_on",
+    "texture": "2b6a988c-4cf1-4a5f-8ef6-2e474a42c39f",
+    "atlas": "",
+    "rect": [
+      1,
+      9,
+      90,
+      72
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      92,
+      92
+    ]
+  }
+}

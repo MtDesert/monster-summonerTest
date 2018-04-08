@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chighost_blue",
+    "texture": "7732e933-7ed0-4fc4-8db8-ef4d11d79c8b",
+    "atlas": "",
+    "rect": [
+      25,
+      21,
+      105,
+      110
+    ],
+    "offset": [
+      2.5,
+      -1
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

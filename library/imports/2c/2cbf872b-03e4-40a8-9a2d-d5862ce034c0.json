@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_xitongxiaoxi",
+    "texture": "1e60b778-a2bf-48c0-b101-55d7605fe4b7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      62
+    ]
+  }
+}

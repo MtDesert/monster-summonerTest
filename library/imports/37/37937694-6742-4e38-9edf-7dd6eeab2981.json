@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "filled_v_fg",
+    "texture": "3d039f89-6529-459f-8eb6-fe5c778080f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      31,
+      402
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      31,
+      402
+    ]
+  }
+}

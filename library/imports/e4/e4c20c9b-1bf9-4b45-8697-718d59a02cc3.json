@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_阿努比斯绿色",
+    "texture": "10da3192-4489-4230-9b49-441b8d1d4afb",
+    "atlas": "",
+    "rect": [
+      30,
+      41,
+      97,
+      86
+    ],
+    "offset": [
+      3.5,
+      -9
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

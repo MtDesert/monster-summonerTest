@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baopai",
+    "texture": "6077b3cc-2f2e-41d6-8adc-c7eaddf15386",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      37
+    ]
+  }
+}

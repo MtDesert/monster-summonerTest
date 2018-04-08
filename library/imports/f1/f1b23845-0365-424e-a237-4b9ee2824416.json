@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_xiangyu",
+    "texture": "792be4fa-1027-464c-ba3e-232701e87803",
+    "atlas": "",
+    "rect": [
+      13,
+      17,
+      116,
+      116
+    ],
+    "offset": [
+      -4,
+      0
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

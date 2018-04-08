@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_logo_light_bg",
+    "texture": "c73edeaa-237b-4946-a3af-fda99119debf",
+    "atlas": "",
+    "rect": [
+      0,
+      19,
+      568,
+      258
+    ],
+    "offset": [
+      0,
+      6.5
+    ],
+    "originalSize": [
+      568,
+      309
+    ]
+  }
+}

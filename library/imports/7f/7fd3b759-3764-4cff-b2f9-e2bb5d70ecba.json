@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_机械触手",
+    "texture": "6bf923da-cbf5-4df9-9426-ed81e11bfcd8",
+    "atlas": "",
+    "rect": [
+      40,
+      29,
+      65,
+      97
+    ],
+    "offset": [
+      -2.5,
+      -2.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

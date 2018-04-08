@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "broken_num",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-bitmap-font.fnt",
+    "broken_num.png"
+  ],
+  "texture": {
+    "__uuid__": "2732f18a-d06a-46a3-9986-e0764bba2d7c"
+  },
+  "fontSize": 60
+}

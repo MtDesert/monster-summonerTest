@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "efx_p1bl_2",
+    "texture": "b39a361f-19ff-4678-82b7-fd8a383454ae",
+    "atlas": "74bdcf55-2c44-411d-9773-a9b92eb88321",
+    "rect": [
+      1,
+      1233,
+      248,
+      174
+    ],
+    "offset": [
+      0,
+      -12
+    ],
+    "originalSize": [
+      288,
+      224
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scrollbarVertical",
+    "texture": "122a498e-3b4b-4b61-b0cc-d33158fe2860",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      13,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      13,
+      17
+    ]
+  }
+}

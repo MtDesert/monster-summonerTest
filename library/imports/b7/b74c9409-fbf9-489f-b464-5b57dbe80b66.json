@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kueen",
+    "texture": "c4715f30-0320-45f5-a63a-d0f7a8165479",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      97
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      64,
+      97
+    ]
+  }
+}

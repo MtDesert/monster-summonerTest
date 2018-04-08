@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_jingke",
+    "texture": "249e4244-eb84-479f-aa54-c44ec2230a54",
+    "atlas": "",
+    "rect": [
+      30,
+      34,
+      92,
+      87
+    ],
+    "offset": [
+      1,
+      -2.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

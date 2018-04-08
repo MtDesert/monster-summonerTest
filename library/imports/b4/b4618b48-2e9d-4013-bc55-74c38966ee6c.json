@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_shards",
+    "texture": "5a51efd5-d660-4e11-a008-1a9ab6f73cd3",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      131,
+      48
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      134,
+      51
+    ]
+  }
+}

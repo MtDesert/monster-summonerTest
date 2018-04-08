@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_黄金巫师",
+    "texture": "1a34acd8-242d-495e-a8c3-a192d3c1a22c",
+    "atlas": "",
+    "rect": [
+      38,
+      34,
+      80,
+      92
+    ],
+    "offset": [
+      3,
+      -5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sumpitaner_yellow",
+    "texture": "02329f67-7ae0-43ff-9bce-31f4cfa359b5",
+    "atlas": "",
+    "rect": [
+      33,
+      40,
+      88,
+      81
+    ],
+    "offset": [
+      2,
+      -5.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

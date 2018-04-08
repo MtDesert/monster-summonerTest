@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_chuzhan",
+    "texture": "eab8514a-7da6-4692-9ad8-5445bb4ff371",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      55,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      35
+    ]
+  }
+}

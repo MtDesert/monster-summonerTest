@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_黑色巫师",
+    "texture": "be756d35-01e5-4f41-b5dd-433b64ba3ecc",
+    "atlas": "",
+    "rect": [
+      37,
+      34,
+      80,
+      92
+    ],
+    "offset": [
+      2,
+      -5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

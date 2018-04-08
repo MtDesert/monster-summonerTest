@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_ui_fzbar",
+    "texture": "6128205f-8f2c-411b-a2ca-bcb1eaa205cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      16
+    ]
+  }
+}

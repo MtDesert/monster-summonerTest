@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "enligsh-chinese",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-bitmap-font.fnt",
+    "enligsh-chinese.png"
+  ],
+  "texture": {
+    "__uuid__": "b5d76ce1-6fcf-4dd0-9c2b-8139326d0bb6"
+  },
+  "fontSize": 40
+}

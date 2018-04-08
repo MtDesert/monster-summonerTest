@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "foe3_pre_attack_r",
+    "texture": "82b0d014-b75e-4d70-b731-736a00638d3d",
+    "atlas": "a19453fb-f5e2-4c34-ab03-d01cbce65944",
+    "rect": [
+      610,
+      91,
+      52,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      72
+    ]
+  }
+}

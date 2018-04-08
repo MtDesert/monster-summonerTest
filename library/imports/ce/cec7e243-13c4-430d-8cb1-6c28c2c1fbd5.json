@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_机械炮台龟",
+    "texture": "a148decd-8212-49ab-b6c9-eab3c36a8a3a",
+    "atlas": "",
+    "rect": [
+      43,
+      49,
+      68,
+      63
+    ],
+    "offset": [
+      2,
+      -5.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

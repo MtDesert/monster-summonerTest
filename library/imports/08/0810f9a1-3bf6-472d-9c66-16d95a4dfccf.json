@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_yingzheng",
+    "texture": "155103e7-fb41-432c-b299-4b941481802d",
+    "atlas": "",
+    "rect": [
+      23,
+      25,
+      92,
+      112
+    ],
+    "offset": [
+      -6,
+      -6
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

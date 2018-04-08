@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_cat_queen",
+    "texture": "950d884e-eb13-419b-9e11-0eaed416d9c0",
+    "atlas": "",
+    "rect": [
+      24,
+      19,
+      115,
+      110
+    ],
+    "offset": [
+      6.5,
+      1
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

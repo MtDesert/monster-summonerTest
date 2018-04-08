@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "indiwarrio",
+    "texture": "354c5803-dae3-4945-8488-9af588d2b90f",
+    "atlas": "",
+    "rect": [
+      34,
+      31,
+      94,
+      91
+    ],
+    "offset": [
+      6,
+      -1.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

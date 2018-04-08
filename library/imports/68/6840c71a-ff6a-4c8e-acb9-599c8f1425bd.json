@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CheckBox_Disable",
+    "texture": "b88146d6-64ca-4b66-af39-a861c574c1b7",
+    "atlas": "7430ba14-c487-4075-8c5c-eccf43044727",
+    "rect": [
+      1,
+      1,
+      40,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      40
+    ]
+  }
+}

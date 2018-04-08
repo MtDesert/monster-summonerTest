@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "efx_blood3_6",
+    "texture": "e3e8531e-3210-4577-8dac-efe7f01e6fbb",
+    "atlas": "b5d9d9c6-fd3b-46e6-bb17-762427b4bcf3",
+    "rect": [
+      177,
+      1,
+      162,
+      88
+    ],
+    "offset": [
+      -4,
+      -11
+    ],
+    "originalSize": [
+      184,
+      124
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_expand_slot",
+    "texture": "51fc968b-f4dd-426c-b024-cf5dfcb53a5a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      35
+    ]
+  }
+}

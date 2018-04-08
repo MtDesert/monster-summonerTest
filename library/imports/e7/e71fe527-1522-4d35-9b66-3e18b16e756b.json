@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tile_iso_offset",
+    "texture": "a569a4f8-0bdd-4d94-849a-5c1d4aac8a3a",
+    "atlas": "",
+    "rect": [
+      1,
+      36,
+      201,
+      166
+    ],
+    "offset": [
+      -26.5,
+      9
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

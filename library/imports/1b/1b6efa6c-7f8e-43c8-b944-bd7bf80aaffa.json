@@ -1,0 +1,104 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "item.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "img_soul_1": {
+      "__uuid__": "1d98a974-25b9-4785-8ef8-426aefe0400f"
+    },
+    "img_soul_2": {
+      "__uuid__": "0cc899e5-acbe-419c-90f4-d334612de811"
+    },
+    "img_soul_3": {
+      "__uuid__": "0de47aff-c819-4062-9229-afbfa7cd1881"
+    },
+    "img_soul_4": {
+      "__uuid__": "70f7fb35-c756-4c67-a363-ab784ab97016"
+    },
+    "img_soul_5": {
+      "__uuid__": "d67b8094-2627-4351-bea3-93f59d46ec66"
+    },
+    "img_soul_6": {
+      "__uuid__": "bc97c239-2b44-4b50-add2-f60f4fd88881"
+    },
+    "img_soul_7": {
+      "__uuid__": "9d437d84-44ee-4a0e-803e-96d135ee268d"
+    },
+    "img_soul_8": {
+      "__uuid__": "c5ee1148-7b92-4851-b5a6-3f2999b0ad2c"
+    },
+    "img_soul_9": {
+      "__uuid__": "8944871d-32b7-4e43-bfc4-81b78c0f8bf3"
+    },
+    "img_soul_g": {
+      "__uuid__": "4cecb912-b1aa-4e19-bef6-a18990d4af49"
+    },
+    "item_bomb": {
+      "__uuid__": "121cd585-dd2e-4e2c-8598-fac74a1621b9"
+    },
+    "item_bomb_1": {
+      "__uuid__": "f511f9e7-41f2-48bb-bf7e-16cc023839b0"
+    },
+    "item_bomb_2": {
+      "__uuid__": "26e76d1c-49ac-4054-af2b-22c2d1570d61"
+    },
+    "item_bomb_3": {
+      "__uuid__": "37f47992-3f87-410b-8fa8-919523ecd928"
+    },
+    "item_bomb_4": {
+      "__uuid__": "a5fc2737-8c6b-40a2-b0a6-be8110110313"
+    },
+    "item_bomb_g": {
+      "__uuid__": "f76f2686-96f9-4473-9779-d75c286140ef"
+    },
+    "item_getsoul": {
+      "__uuid__": "ba52e7ff-76c1-4e13-870e-af06c0a97050"
+    },
+    "item_getsoul2": {
+      "__uuid__": "71604097-5e72-4cff-b5ca-041b74ba8268"
+    },
+    "item_power": {
+      "__uuid__": "19fe5f4d-9ca0-41fa-98cb-38ce07718c10"
+    },
+    "item_power_g": {
+      "__uuid__": "be024889-6e28-4371-9629-7a86897e7832"
+    },
+    "item_pull": {
+      "__uuid__": "1bead3e9-2dcc-424a-be5e-d4dbdb3b0079"
+    },
+    "item_pull_1": {
+      "__uuid__": "56883426-fa8a-40be-b16f-29101a611a13"
+    },
+    "item_pull_g": {
+      "__uuid__": "886dfc55-0fba-4495-82c2-1366dd76686e"
+    },
+    "item_score": {
+      "__uuid__": "70b12c47-8c27-487b-bb02-bd19068ee07a"
+    },
+    "item_score_g": {
+      "__uuid__": "35b516e9-5383-41ac-be71-0914ea1c1d6b"
+    },
+    "item_sheild": {
+      "__uuid__": "330dc002-1b0e-43d3-ba4f-96cbb917654d"
+    },
+    "item_sheild_1": {
+      "__uuid__": "ac7d7ed2-ddb0-4c88-9f1c-bd0661329b55"
+    },
+    "item_sheild_g": {
+      "__uuid__": "04768a9b-25b2-4a1f-b8ae-e7ef3ccfa0b7"
+    },
+    "item_time": {
+      "__uuid__": "bb6946bd-25c5-4a54-9c36-bee37aff4b73"
+    },
+    "item_time_g": {
+      "__uuid__": "5793b49f-72ac-444b-a09d-7c69af64e876"
+    },
+    "item_zombie": {
+      "__uuid__": "58144ea1-e2eb-4060-bb53-2c4c52c65a9d"
+    },
+    "item_zombie_g": {
+      "__uuid__": "5890c972-80ea-4c98-85ab-244229a63f71"
+    }
+  }
+}

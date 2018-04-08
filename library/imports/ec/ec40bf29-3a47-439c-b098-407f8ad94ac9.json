@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "player_swordkee_fz",
+    "texture": "a9f7402e-2881-46df-8213-76eb44fb6810",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      17,
+      320
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      17,
+      320
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_sheild_1",
+    "texture": "bdcab967-1452-4531-b36f-318d82cf481e",
+    "atlas": "1b6efa6c-7f8e-43c8-b944-bd7bf80aaffa",
+    "rect": [
+      1,
+      309,
+      158,
+      198
+    ],
+    "offset": [
+      -8,
+      -3
+    ],
+    "originalSize": [
+      204,
+      220
+    ],
+    "rotated": 1
+  }
+}

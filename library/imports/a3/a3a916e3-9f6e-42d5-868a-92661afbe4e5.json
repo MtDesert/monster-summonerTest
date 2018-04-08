@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "revive",
+    "texture": "372060b3-23d4-4525-b730-61f1876e204a",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      190,
+      1669
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      194,
+      1676
+    ]
+  }
+}

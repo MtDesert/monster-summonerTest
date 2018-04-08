@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_KO",
+    "texture": "4a225bc7-c6e7-4080-a5d1-e6cc844c24c1",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      52,
+      55
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      54,
+      57
+    ]
+  }
+}

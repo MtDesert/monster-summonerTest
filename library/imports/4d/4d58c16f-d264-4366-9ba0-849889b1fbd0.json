@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_shadomummy",
+    "texture": "09884885-85b0-42ae-bcdd-71d0c54cebdb",
+    "atlas": "",
+    "rect": [
+      24,
+      32,
+      106,
+      93
+    ],
+    "offset": [
+      2,
+      -3.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

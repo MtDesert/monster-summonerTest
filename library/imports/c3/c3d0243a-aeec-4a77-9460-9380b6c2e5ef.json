@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sliderThumb",
+    "texture": "b88146d6-64ca-4b66-af39-a861c574c1b7",
+    "atlas": "7430ba14-c487-4075-8c5c-eccf43044727",
+    "rect": [
+      125,
+      14,
+      26,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      26
+    ]
+  }
+}

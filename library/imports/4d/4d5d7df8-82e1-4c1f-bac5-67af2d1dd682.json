@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_panel_paper",
+    "texture": "ce2589e5-4a47-42c5-8b95-f4c56668d1cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      535,
+      183
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      535,
+      184
+    ]
+  }
+}

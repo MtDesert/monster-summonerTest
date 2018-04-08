@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BUST_2",
+    "texture": "18b2d347-2cb0-495b-b7de-473878a96ce3",
+    "atlas": "",
+    "rect": [
+      11,
+      11,
+      126,
+      128
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

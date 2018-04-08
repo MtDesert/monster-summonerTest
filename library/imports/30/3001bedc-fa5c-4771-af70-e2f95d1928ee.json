@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_btn_veewo",
+    "texture": "1e1c5089-9db4-4dea-bc8f-6b1daf95508f",
+    "atlas": "",
+    "rect": [
+      8,
+      6,
+      101,
+      94
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      116,
+      106
+    ]
+  }
+}

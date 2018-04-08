@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banner_goumai_ocean",
+    "texture": "9be4f819-7f25-4b74-b65a-a525689c6cab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      494,
+      168
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      494,
+      168
+    ]
+  }
+}

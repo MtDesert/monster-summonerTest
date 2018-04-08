@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "unlock_heart",
+    "texture": "777a8f79-79a6-4ada-bc7b-6689a0d0d930",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      216,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      216,
+      120
+    ]
+  }
+}

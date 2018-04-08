@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BLACK JACK_8",
+    "texture": "037643ce-a1b8-4e1f-88f1-b952cbfa67e0",
+    "atlas": "",
+    "rect": [
+      24,
+      39,
+      202,
+      175
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      250,
+      250
+    ]
+  }
+}

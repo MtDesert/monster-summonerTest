@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chighost_armour",
+    "texture": "dc93fd38-bfed-4822-8e03-28c16bc41fd1",
+    "atlas": "",
+    "rect": [
+      24,
+      21,
+      108,
+      110
+    ],
+    "offset": [
+      3,
+      -1
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

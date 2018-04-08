@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_tlaloc",
+    "texture": "0e351739-3d9e-42d0-b0b8-83e46d21c1c3",
+    "atlas": "",
+    "rect": [
+      19,
+      24,
+      112,
+      117
+    ],
+    "offset": [
+      0,
+      -7.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

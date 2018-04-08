@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "earphone",
+    "texture": "5dd112ed-f085-4c76-9900-d44a6c8000a8",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      100,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_timeline_hand",
+    "texture": "6a8531b1-6cbe-4e06-965c-74c4ccd48b93",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      12,
+      14
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      14,
+      18
+    ]
+  }
+}

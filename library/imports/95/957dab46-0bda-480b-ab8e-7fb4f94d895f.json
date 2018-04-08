@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daojishi_down",
+    "texture": "474e8629-ffb1-4309-903c-d9b9eabbd34f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      333,
+      263
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      333,
+      263
+    ]
+  }
+}

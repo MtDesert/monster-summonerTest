@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAI,OAAO,GAAG,OAAO,CAAC,SAAS,CAAC,CAAC;;;AAGjC,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;AACR,iBAAS,EAAE;AACP,uBAAS,CAAC;AACV,mBAAO,EAAE,SAAS;AAClB,mBAAO,EAAE,KAAK;SACjB;;AAED,aAAK,EAAE;AACH,uBAAS,CAAC;AACV,mBAAO,EAAE,WAAW;AACpB,mBAAO,EAAE,KAAK;SACjB;;AAED,iBAAS,EAAE;AACP,uBAAS,CAAC;AACV,mBAAO,EAAE,WAAW;SACvB;;AAGD,oBAAY,EAAE;AACV,uBAAS,CAAC;AACV,mBAAO,EAAE,WAAW;AACpB,mBAAO,EAAE,KAAK;SACjB;;AAED,4BAAoB,EAAE;AAClB,uBAAS,CAAC;AACV,mBAAO,EAAE,eAAe;SAC3B;;AAED,uBAAe,EAAE;AACb,uBAAS,CAAC;AACV,mBAAO,EAAE,mBAAmB;SAC/B;;AAED,cAAM,EAAE;AACJ,uBAAS,CAAC;AACV,mBAAO,EAAE,QAAQ;SACpB;;AAED,2BAAmB,EAAE;AACjB,uBAAS,CAAC;AACV,mBAAO,EAAE,oBAAoB;SAChC;;KAIJ;CACJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "var allData = require('allData');//引用所有公共数据\r\n//存放小怪物的数据，每个小怪物节点只能对自己的数据进行读写\r\n\r\ncc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        currentHp: {\r\n            default: 0,\r\n            tooltip: '怪物当前生命值',\r\n            visible: false,\r\n        },\r\n\r\n        maxHp: {\r\n            default: 0,\r\n            tooltip: '怪物的当前生命上限',\r\n            visible: false,\r\n        },\r\n\r\n        maxHpInit: {\r\n            default: 0,\r\n            tooltip: '怪物的初始生命上限',\r\n        },\r\n        \r\n        \r\n        actionStatus: {\r\n            default: 0,\r\n            tooltip: '怪物当前的行动状态',\r\n            visible: false,\r\n        },\r\n\r\n        actionChangeInterval: {\r\n            default: 0,\r\n            tooltip: '怪物改变行动状态的时间间隔',\r\n        },\r\n\r\n        hpIncreaseRatio: {\r\n            default: 0,\r\n            tooltip: '死亡怪物数给后面怪物生命增加的比例',\r\n        },\r\n\r\n        damage: {\r\n            default: 0,\r\n            tooltip: '怪物的攻击力',\r\n        },\r\n\r\n        damageIncreaseRatio: {\r\n            default: 0,\r\n            tooltip: '死亡1个怪物给后面怪物攻击增加的比例',\r\n        },\r\n\r\n\r\n        \r\n    },\r\n});\r\n"
+  ]
+}

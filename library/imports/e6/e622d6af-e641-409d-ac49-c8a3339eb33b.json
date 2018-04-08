@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banner_goumai_egypt",
+    "texture": "f88c5fb0-5e63-4e12-a828-b1519ea599a4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      494,
+      168
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      494,
+      168
+    ]
+  }
+}

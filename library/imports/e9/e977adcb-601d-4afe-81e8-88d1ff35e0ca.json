@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shuzibiaoqian03",
+    "texture": "8984bfe1-1676-449b-aac0-204f8627a3b3",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      170,
+      23
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      170,
+      24
+    ]
+  }
+}

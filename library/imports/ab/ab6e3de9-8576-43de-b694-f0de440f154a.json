@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heimei_big",
+    "texture": "cde081ed-0d39-4bcd-be4d-b04a8c26d4e3",
+    "atlas": "957d935e-f027-4588-b601-66c6f4e9ae9c",
+    "rect": [
+      197,
+      190,
+      55,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      53
+    ],
+    "rotated": 1
+  }
+}

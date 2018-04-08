@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banner_red_long",
+    "texture": "d896fe3c-444f-45df-a8aa-76128e65acec",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      546,
+      61
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      548,
+      62
+    ]
+  }
+}

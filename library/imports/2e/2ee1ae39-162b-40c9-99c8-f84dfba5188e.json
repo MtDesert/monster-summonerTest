@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "haibao_shadow",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-bitmap-font.fnt",
+    "haibao_shadow.png"
+  ],
+  "texture": {
+    "__uuid__": "1e0856e5-f2e4-48b0-98dc-cdf5643b518e"
+  },
+  "fontSize": 40
+}

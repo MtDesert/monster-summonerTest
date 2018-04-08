@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_kuochong",
+    "texture": "55e65ab4-c81d-460f-a7ca-bdcc3a20fa74",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      141,
+      49
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      143,
+      52
+    ]
+  }
+}

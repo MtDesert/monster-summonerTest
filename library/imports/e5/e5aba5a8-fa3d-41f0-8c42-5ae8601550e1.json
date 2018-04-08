@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pa_btn_quit_on",
+    "texture": "52815de9-114f-4a53-b205-18820fc0b7a6",
+    "atlas": "",
+    "rect": [
+      23,
+      19,
+      136,
+      120
+    ],
+    "offset": [
+      6,
+      1.5
+    ],
+    "originalSize": [
+      170,
+      161
+    ]
+  }
+}

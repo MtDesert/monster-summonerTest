@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_gold_zhuozi",
+    "texture": "3a745cbd-ee58-4770-ad28-a7f2e31b9986",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      30
+    ]
+  }
+}

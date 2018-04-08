@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_弓箭手变色",
+    "texture": "f07a3b59-db73-4031-9742-17018a13a7e8",
+    "atlas": "",
+    "rect": [
+      36,
+      41,
+      80,
+      82
+    ],
+    "offset": [
+      1,
+      -7
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

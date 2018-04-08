@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_弓箭手",
+    "texture": "89c66c64-6803-4b95-99be-176bc446993e",
+    "atlas": "",
+    "rect": [
+      36,
+      41,
+      80,
+      82
+    ],
+    "offset": [
+      1,
+      -7
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

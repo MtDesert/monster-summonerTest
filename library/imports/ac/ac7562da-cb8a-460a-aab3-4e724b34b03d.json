@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "player_swordkee_1",
+    "texture": "a992e2ff-2651-417a-8753-9eca491aaace",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      12,
+      258
+    ],
+    "offset": [
+      0,
+      19
+    ],
+    "originalSize": [
+      12,
+      296
+    ]
+  }
+}

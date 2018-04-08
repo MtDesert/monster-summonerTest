@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "over_btn_play_on",
+    "texture": "bd12cfe5-d236-46b1-8f71-72df2e2965f8",
+    "atlas": "",
+    "rect": [
+      15,
+      12,
+      153,
+      135
+    ],
+    "offset": [
+      6.5,
+      0.5
+    ],
+    "originalSize": [
+      170,
+      160
+    ]
+  }
+}

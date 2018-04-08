@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rankinglist_1",
+    "texture": "126388fd-891b-4a10-82ce-a1761dd9102c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      66
+    ]
+  }
+}

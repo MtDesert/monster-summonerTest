@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_purple2",
+    "texture": "a3888c51-bc33-4ab7-b5d3-e7ebf51a7489",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      54
+    ]
+  }
+}

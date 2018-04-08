@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_shilf",
+    "texture": "98bf20a0-79a7-46dd-94e3-13536a63acc4",
+    "atlas": "",
+    "rect": [
+      25,
+      42,
+      114,
+      83
+    ],
+    "offset": [
+      7,
+      -8.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

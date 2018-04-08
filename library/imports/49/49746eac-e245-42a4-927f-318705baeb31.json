@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hongtao_big",
+    "texture": "2dc2a67f-be87-42a4-a2df-93d5c41889cb",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      53,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      53
+    ]
+  }
+}

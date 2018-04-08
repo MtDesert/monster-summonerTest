@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "panel_black",
+    "texture": "dadea762-9042-4587-a043-0070dce38137",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      15,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      15,
+      32
+    ]
+  }
+}

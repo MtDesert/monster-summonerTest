@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_raid",
+    "texture": "c80ad378-ecce-49db-9c35-08e91804b882",
+    "atlas": "",
+    "rect": [
+      7,
+      6,
+      72,
+      104
+    ],
+    "offset": [
+      1.5,
+      -3
+    ],
+    "originalSize": [
+      83,
+      110
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_title_goumai",
+    "texture": "7f0d81ac-72dc-4518-b406-4660a9c305cf",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      177,
+      56
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      179,
+      59
+    ]
+  }
+}

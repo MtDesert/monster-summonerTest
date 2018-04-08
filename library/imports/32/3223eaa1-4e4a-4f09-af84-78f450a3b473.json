@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heitao_small",
+    "texture": "cde081ed-0d39-4bcd-be4d-b04a8c26d4e3",
+    "atlas": "957d935e-f027-4588-b601-66c6f4e9ae9c",
+    "rect": [
+      169,
+      230,
+      16,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      16
+    ]
+  }
+}

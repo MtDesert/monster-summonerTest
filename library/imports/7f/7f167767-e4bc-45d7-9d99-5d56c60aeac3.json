@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_mermaidqueen",
+    "texture": "f0e846fa-dd49-439f-9432-9631648832e0",
+    "atlas": "",
+    "rect": [
+      24,
+      19,
+      95,
+      108
+    ],
+    "offset": [
+      -3.5,
+      2
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

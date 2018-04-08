@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_drakan",
+    "texture": "a6933c65-4e72-4937-ad53-ef83aa023c81",
+    "atlas": "",
+    "rect": [
+      29,
+      33,
+      93,
+      94
+    ],
+    "offset": [
+      0.5,
+      -5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

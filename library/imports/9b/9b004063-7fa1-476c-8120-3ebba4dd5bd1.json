@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_gradient_mask",
+    "texture": "d05aacee-f71f-46b0-b4fd-40eab8dc9623",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      640,
+      284
+    ],
+    "offset": [
+      0,
+      153.5
+    ],
+    "originalSize": [
+      640,
+      591
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chighost_green",
+    "texture": "125d5978-43a6-4ce4-81ba-2f296757c5fe",
+    "atlas": "",
+    "rect": [
+      24,
+      21,
+      105,
+      110
+    ],
+    "offset": [
+      1.5,
+      -1
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

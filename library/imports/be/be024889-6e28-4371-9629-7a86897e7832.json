@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_power_g",
+    "texture": "bdcab967-1452-4531-b36f-318d82cf481e",
+    "atlas": "1b6efa6c-7f8e-43c8-b944-bd7bf80aaffa",
+    "rect": [
+      201,
+      393,
+      82,
+      82
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      84,
+      84
+    ]
+  }
+}

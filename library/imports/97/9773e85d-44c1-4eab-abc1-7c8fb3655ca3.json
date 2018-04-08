@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "death_btn_save",
+    "texture": "62661cd7-5789-43a8-a2ff-0823f29446f2",
+    "atlas": "",
+    "rect": [
+      5,
+      18,
+      311,
+      90
+    ],
+    "offset": [
+      0.5,
+      -2
+    ],
+    "originalSize": [
+      320,
+      122
+    ]
+  }
+}

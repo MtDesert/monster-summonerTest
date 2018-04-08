@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "panel_highlight",
+    "texture": "634ccd25-1c44-4317-a20c-c747cb28e224",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      15,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      15,
+      32
+    ]
+  }
+}

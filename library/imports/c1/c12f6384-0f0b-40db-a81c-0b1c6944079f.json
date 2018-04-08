@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_c_mage",
+    "texture": "9102f5ce-60de-4eef-9dcc-b7c78268c6eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      226
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      226
+    ]
+  }
+}

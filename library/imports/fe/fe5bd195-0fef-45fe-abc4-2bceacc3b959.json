@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_captain_jack",
+    "texture": "39c856de-7414-4431-b7e5-01a55b653528",
+    "atlas": "",
+    "rect": [
+      29,
+      33,
+      111,
+      96
+    ],
+    "offset": [
+      9.5,
+      -6
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

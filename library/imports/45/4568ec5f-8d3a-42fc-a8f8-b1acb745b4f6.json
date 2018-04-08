@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_c_ warrior",
+    "texture": "f4e2b020-6881-42ce-93a5-d4cd403caa83",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      188
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      188
+    ]
+  }
+}

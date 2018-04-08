@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_埃及毒蛇红色",
+    "texture": "95643ae1-ec94-47c1-9278-06447c4926b0",
+    "atlas": "",
+    "rect": [
+      27,
+      41,
+      99,
+      80
+    ],
+    "offset": [
+      1.5,
+      -6
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

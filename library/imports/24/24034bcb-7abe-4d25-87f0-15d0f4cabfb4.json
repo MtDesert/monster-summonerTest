@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_buy1",
+    "texture": "7866ba7c-898e-4b91-b029-66b08d5c3fbe",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      121,
+      45
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      123,
+      48
+    ]
+  }
+}

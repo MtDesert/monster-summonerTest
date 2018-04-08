@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "haibao_outline",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-bitmap-font.fnt",
+    "haibao_outline.png"
+  ],
+  "texture": {
+    "__uuid__": "fdd1aa79-f64d-495d-b186-13c518da2cd0"
+  },
+  "fontSize": 50
+}

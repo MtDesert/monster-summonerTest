@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_kills_txt",
+    "texture": "5f2c639c-2513-47c4-8769-e219c2741cb2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      29
+    ]
+  }
+}

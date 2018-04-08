@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_蓝炮台龟",
+    "texture": "41eb2b37-50a3-434b-9935-a0c1e1968fd6",
+    "atlas": "",
+    "rect": [
+      43,
+      49,
+      67,
+      63
+    ],
+    "offset": [
+      1.5,
+      -5.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

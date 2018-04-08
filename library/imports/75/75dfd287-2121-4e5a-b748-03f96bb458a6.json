@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_甲壳虫黄",
+    "texture": "3a7277e2-7062-464a-9a53-ba71d652b596",
+    "atlas": "",
+    "rect": [
+      16,
+      34,
+      123,
+      97
+    ],
+    "offset": [
+      2.5,
+      -7.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

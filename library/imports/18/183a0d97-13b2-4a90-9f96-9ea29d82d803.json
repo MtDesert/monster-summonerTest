@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_甲壳虫蓝",
+    "texture": "4b4ef67c-66c4-407f-ae21-3b3dda001cb0",
+    "atlas": "",
+    "rect": [
+      15,
+      34,
+      123,
+      97
+    ],
+    "offset": [
+      1.5,
+      -7.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_timeline_red_bg",
+    "texture": "ef135afb-6623-45dc-9237-4a5b8254f147",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      406,
+      23
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      408,
+      26
+    ]
+  }
+}

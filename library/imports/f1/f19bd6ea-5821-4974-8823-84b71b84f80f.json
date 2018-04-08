@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "flappybird",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-bitmap-font.fnt",
+    "flappybird.png"
+  ],
+  "texture": {
+    "__uuid__": "0593094c-4284-405d-b3cc-9837ac34851c"
+  },
+  "fontSize": 50
+}

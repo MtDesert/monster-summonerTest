@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_yuji",
+    "texture": "0d453acb-0db0-4110-a06a-6f34e5019070",
+    "atlas": "",
+    "rect": [
+      31,
+      25,
+      90,
+      95
+    ],
+    "offset": [
+      1,
+      2.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

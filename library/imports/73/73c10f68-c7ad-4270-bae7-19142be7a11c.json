@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_shydra",
+    "texture": "e4a6df9c-6610-4cef-ae01-ff96877b9e61",
+    "atlas": "",
+    "rect": [
+      15,
+      0,
+      122,
+      132
+    ],
+    "offset": [
+      1,
+      9
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

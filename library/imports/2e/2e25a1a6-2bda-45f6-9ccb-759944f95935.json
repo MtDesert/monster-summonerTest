@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_combo_bg",
+    "texture": "4733f8a6-6f57-46ec-9b51-3bd8bca22633",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      157,
+      95
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      159,
+      96
+    ]
+  }
+}

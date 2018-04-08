@@ -1,0 +1,26 @@
+{
+  "collision-matrix": [
+    [
+      false,
+      true,
+      true
+    ],
+    [
+      true,
+      false,
+      false
+    ],
+    [
+      true,
+      false,
+      false
+    ]
+  ],
+  "excluded-modules": [],
+  "group-list": [
+    "monster",
+    "heroBallistic",
+    "hero"
+  ],
+  "start-scene": "current"
+}

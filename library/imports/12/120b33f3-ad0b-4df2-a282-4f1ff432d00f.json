@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "warn_btn_ok",
+    "texture": "9f1ffe6d-246b-4a90-9940-7730981b8dd9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      264,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      264,
+      90
+    ]
+  }
+}

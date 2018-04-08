@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "death_title_bg",
+    "texture": "80e9db17-a6ac-4941-bf4c-bb38163fcf36",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      271,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      271,
+      110
+    ]
+  }
+}

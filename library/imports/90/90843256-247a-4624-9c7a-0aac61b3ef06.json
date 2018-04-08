@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "efx_light",
+    "texture": "71f26bcc-de0c-4777-8669-570f11913405",
+    "atlas": "",
+    "rect": [
+      10,
+      10,
+      76,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      96
+    ]
+  }
+}

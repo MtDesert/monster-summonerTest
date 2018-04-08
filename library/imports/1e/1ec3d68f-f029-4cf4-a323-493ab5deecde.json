@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_塞壬女妖",
+    "texture": "956f9fa9-406b-40de-8ee3-f51c365ec194",
+    "atlas": "",
+    "rect": [
+      31,
+      31,
+      93,
+      100
+    ],
+    "offset": [
+      2.5,
+      -6
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

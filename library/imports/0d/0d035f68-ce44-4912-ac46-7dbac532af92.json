@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_绿色巫师",
+    "texture": "a8a44526-2c77-41b0-860a-b2df3702a972",
+    "atlas": "",
+    "rect": [
+      37,
+      34,
+      80,
+      91
+    ],
+    "offset": [
+      2,
+      -4.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

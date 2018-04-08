@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_buchongjingli",
+    "texture": "24715b63-9055-4080-b7f5-001d11a9f0d0",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      141,
+      49
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      143,
+      52
+    ]
+  }
+}

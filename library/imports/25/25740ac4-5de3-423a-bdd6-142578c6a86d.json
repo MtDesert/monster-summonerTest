@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_wave_txt",
+    "texture": "e44b653b-85a7-4d90-a512-ca79cde3f5fb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      50
+    ]
+  }
+}

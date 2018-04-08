@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_sundine",
+    "texture": "82286069-7dbc-4806-9d00-192cbdc7030e",
+    "atlas": "",
+    "rect": [
+      13,
+      38,
+      120,
+      86
+    ],
+    "offset": [
+      -2,
+      -6
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

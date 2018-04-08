@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_timeline_light",
+    "texture": "28830e64-2a48-4bca-b936-6cf5cac69c9f",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      302,
+      20
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      303,
+      20
+    ]
+  }
+}

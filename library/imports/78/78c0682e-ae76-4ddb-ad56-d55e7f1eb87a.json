@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creatures",
+    "texture": "6ac4fd28-8c2f-4f75-81de-f85c6c8fff8f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      952,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      952,
+      512
+    ]
+  }
+}

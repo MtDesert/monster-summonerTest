@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iso-test",
+    "texture": "7a8e4606-adcc-4376-a8be-0159ee167b5a",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      319,
+      116
+    ],
+    "offset": [
+      -94.5,
+      69
+    ],
+    "originalSize": [
+      512,
+      256
+    ]
+  }
+}

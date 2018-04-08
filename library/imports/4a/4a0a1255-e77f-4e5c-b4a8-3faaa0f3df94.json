@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "efx_revive_2",
+    "texture": "7fcfd30f-ec20-48d9-a57d-52ac9bd07d5d",
+    "atlas": "",
+    "rect": [
+      8,
+      7,
+      57,
+      35
+    ],
+    "offset": [
+      0.5,
+      1.5
+    ],
+    "originalSize": [
+      72,
+      52
+    ]
+  }
+}

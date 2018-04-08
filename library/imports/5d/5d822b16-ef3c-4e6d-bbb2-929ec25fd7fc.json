@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "indiwarrior_purple",
+    "texture": "7eccb474-82dc-4030-b6b6-ccae25c025d5",
+    "atlas": "",
+    "rect": [
+      34,
+      31,
+      94,
+      90
+    ],
+    "offset": [
+      6,
+      -1
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

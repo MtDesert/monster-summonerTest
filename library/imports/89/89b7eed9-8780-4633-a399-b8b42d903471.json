@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haibao_outline",
+    "texture": "fdd1aa79-f64d-495d-b186-13c518da2cd0",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      504,
+      382
+    ],
+    "offset": [
+      -2,
+      61
+    ],
+    "originalSize": [
+      512,
+      512
+    ]
+  }
+}

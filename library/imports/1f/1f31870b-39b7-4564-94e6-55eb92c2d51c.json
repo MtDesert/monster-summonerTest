@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_hecheng",
+    "texture": "118ae3fa-bb48-483d-b15a-cea0f601d67f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      68
+    ]
+  }
+}

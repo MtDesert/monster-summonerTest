@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_mid_sign",
+    "texture": "b377108d-b926-4e2a-87e9-a4093af22912",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      174,
+      151
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      180,
+      160
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "foe2_run_r_4",
+    "texture": "82b0d014-b75e-4d70-b731-736a00638d3d",
+    "atlas": "a19453fb-f5e2-4c34-ab03-d01cbce65944",
+    "rect": [
+      710,
+      171,
+      36,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      76
+    ]
+  }
+}

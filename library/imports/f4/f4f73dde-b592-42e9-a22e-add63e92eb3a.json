@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_combo_txt",
+    "texture": "d9d11f67-3c10-409e-962a-ebf97b5afc7f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      31
+    ]
+  }
+}

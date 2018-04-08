@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_vinegarking",
+    "texture": "fe70fde4-e5bb-49d9-8472-6b5368d30f88",
+    "atlas": "",
+    "rect": [
+      31,
+      23,
+      83,
+      111
+    ],
+    "offset": [
+      -2.5,
+      -3.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txtCountdown",
+    "texture": "15175644-89ff-4707-9ae5-4c8fd8610c8f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      218,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      218,
+      29
+    ]
+  }
+}

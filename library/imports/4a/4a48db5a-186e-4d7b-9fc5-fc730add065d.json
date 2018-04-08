@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_liuyan",
+    "texture": "919dcb2e-3ef8-4c14-a5d4-7ff1e103f667",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      63
+    ]
+  }
+}

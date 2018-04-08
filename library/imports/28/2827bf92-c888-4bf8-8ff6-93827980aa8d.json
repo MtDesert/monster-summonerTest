@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rare2",
+    "texture": "df9a741f-2335-477f-8504-2d656c916914",
+    "atlas": "",
+    "rect": [
+      3,
+      9,
+      95,
+      119
+    ],
+    "offset": [
+      0.5,
+      -4
+    ],
+    "originalSize": [
+      100,
+      129
+    ]
+  }
+}

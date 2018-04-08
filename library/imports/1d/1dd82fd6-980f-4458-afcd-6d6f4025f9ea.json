@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_c_zombie_3",
+    "texture": "aeb20b88-277e-4ecd-8153-f021233c8cf3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      152
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      152
+    ]
+  }
+}

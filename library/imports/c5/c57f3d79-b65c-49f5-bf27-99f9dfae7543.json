@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heitao_big",
+    "texture": "0a263992-5145-4bac-8fd7-c090781fa0c1",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      52,
+      52
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      55,
+      53
+    ]
+  }
+}

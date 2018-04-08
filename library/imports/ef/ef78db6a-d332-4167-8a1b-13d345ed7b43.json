@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_hugeshark",
+    "texture": "4ee6c876-1aa5-4878-a53a-c6b7e253a3a4",
+    "atlas": "",
+    "rect": [
+      25,
+      20,
+      104,
+      114
+    ],
+    "offset": [
+      2,
+      -2
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

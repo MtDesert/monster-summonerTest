@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paishu",
+    "texture": "9d78db28-3ece-415f-be9a-d954a0e6c4f7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      37
+    ]
+  }
+}

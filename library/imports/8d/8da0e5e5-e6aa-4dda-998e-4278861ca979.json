@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gift_tomato",
+    "texture": "117e26db-7eba-417b-8521-6e390358a8f4",
+    "atlas": "",
+    "rect": [
+      0,
+      5,
+      80,
+      77
+    ],
+    "offset": [
+      -1.5,
+      2.5
+    ],
+    "originalSize": [
+      83,
+      92
+    ]
+  }
+}

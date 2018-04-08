@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_soul_3",
+    "texture": "bdcab967-1452-4531-b36f-318d82cf481e",
+    "atlas": "1b6efa6c-7f8e-43c8-b944-bd7bf80aaffa",
+    "rect": [
+      601,
+      221,
+      14,
+      20
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      20,
+      24
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blackjack-BLACK JACK_2",
+    "texture": "61451d89-4832-4e09-b541-8aaa3f1317ac",
+    "atlas": "39218c24-2200-4013-a23e-605bbaae9bfe",
+    "rect": [
+      626,
+      792,
+      236,
+      104
+    ],
+    "offset": [
+      -1,
+      -3
+    ],
+    "originalSize": [
+      250,
+      250
+    ],
+    "rotated": 1
+  }
+}

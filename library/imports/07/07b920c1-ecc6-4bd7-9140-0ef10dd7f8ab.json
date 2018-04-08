@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scannonturtle",
+    "texture": "807c29d8-f09c-4628-a42e-d35c999eafb2",
+    "atlas": "",
+    "rect": [
+      43,
+      49,
+      68,
+      63
+    ],
+    "offset": [
+      2,
+      -5.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

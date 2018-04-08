@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_green_un2",
+    "texture": "9afa3371-28fc-4beb-ac15-ff3e69a2d467",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      24
+    ]
+  }
+}

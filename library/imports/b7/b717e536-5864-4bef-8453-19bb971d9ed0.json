@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "indiwarrior_knife",
+    "texture": "2d2d6342-7400-455f-8326-0c8c9e3728cd",
+    "atlas": "",
+    "rect": [
+      34,
+      31,
+      94,
+      91
+    ],
+    "offset": [
+      6,
+      -1.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

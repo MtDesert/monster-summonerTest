@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_棺材",
+    "texture": "aaaf3287-e107-4ea5-b5eb-a959bde52514",
+    "atlas": "",
+    "rect": [
+      37,
+      31,
+      80,
+      87
+    ],
+    "offset": [
+      2,
+      0.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

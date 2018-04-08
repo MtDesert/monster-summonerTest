@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_蛇人3",
+    "texture": "83a1bf00-6443-41c0-8670-9fa68525f25d",
+    "atlas": "",
+    "rect": [
+      30,
+      27,
+      85,
+      94
+    ],
+    "offset": [
+      -2.5,
+      1
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

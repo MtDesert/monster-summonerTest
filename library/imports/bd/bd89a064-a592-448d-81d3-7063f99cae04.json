@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_figure",
+    "texture": "1119bc84-82d4-43d4-a4f8-d71ed1329ad1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      415,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      415,
+      446
+    ]
+  }
+}

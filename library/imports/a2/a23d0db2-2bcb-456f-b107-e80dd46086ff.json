@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_chuzhan",
+    "texture": "0caba488-fa19-4816-8774-f1ece925cb12",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      65
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sheep_run_03",
+    "texture": "ee0dc25b-4bb7-46bb-923b-12a491784837",
+    "atlas": "",
+    "rect": [
+      27,
+      12,
+      177,
+      114
+    ],
+    "offset": [
+      1.5,
+      10.5
+    ],
+    "originalSize": [
+      228,
+      159
+    ]
+  }
+}

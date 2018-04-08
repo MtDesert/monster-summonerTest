@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gift_kiss",
+    "texture": "8094a978-026d-4447-9d13-5af5b3228033",
+    "atlas": "",
+    "rect": [
+      12,
+      2,
+      77,
+      85
+    ],
+    "offset": [
+      3,
+      1
+    ],
+    "originalSize": [
+      95,
+      91
+    ]
+  }
+}

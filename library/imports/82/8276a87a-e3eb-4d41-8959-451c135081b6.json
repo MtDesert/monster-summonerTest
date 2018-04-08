@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "homr_logo_slash",
+    "texture": "6ae9bcc7-159e-4fc7-aea1-0ef20f7538e4",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      446,
+      120
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      449,
+      120
+    ]
+  }
+}

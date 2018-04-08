@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cannonturtle",
+    "texture": "1305bf6c-803a-4438-a61d-3307ad0a7945",
+    "atlas": "",
+    "rect": [
+      42,
+      48,
+      68,
+      63
+    ],
+    "offset": [
+      1,
+      -4.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

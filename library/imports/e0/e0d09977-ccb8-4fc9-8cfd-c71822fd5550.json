@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_huchcy",
+    "texture": "5982ca00-d76c-4263-812e-2920e8c80a66",
+    "atlas": "",
+    "rect": [
+      35,
+      15,
+      80,
+      111
+    ],
+    "offset": [
+      0,
+      4.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

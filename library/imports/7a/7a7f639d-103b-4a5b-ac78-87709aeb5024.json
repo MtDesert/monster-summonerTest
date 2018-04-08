@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_阿努比斯",
+    "texture": "a3102228-7259-4987-889c-9ecff4958d94",
+    "atlas": "",
+    "rect": [
+      30,
+      42,
+      96,
+      85
+    ],
+    "offset": [
+      3,
+      -9.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

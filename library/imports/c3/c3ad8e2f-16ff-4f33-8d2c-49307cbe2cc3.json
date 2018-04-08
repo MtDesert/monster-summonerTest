@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "averia",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-bitmap-font.fnt",
+    "averia.png"
+  ],
+  "texture": {
+    "__uuid__": "1dc4c9bc-e06f-46ae-b8d4-af4534e21700"
+  },
+  "fontSize": 40
+}

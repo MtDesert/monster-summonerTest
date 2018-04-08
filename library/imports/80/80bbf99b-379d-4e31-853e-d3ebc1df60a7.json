@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_bg_dark_bot",
+    "texture": "76e8b339-f3e8-4365-937f-dbab2826145e",
+    "atlas": "",
+    "rect": [
+      0,
+      16,
+      1136,
+      341
+    ],
+    "offset": [
+      0,
+      -8
+    ],
+    "originalSize": [
+      1136,
+      357
+    ]
+  }
+}

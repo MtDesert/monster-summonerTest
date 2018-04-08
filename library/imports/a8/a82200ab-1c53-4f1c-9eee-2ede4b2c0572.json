@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "homr_logo_blade",
+    "texture": "cf827765-e8a1-472b-8fcf-65cbb9790b39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      607,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      607,
+      28
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snakeman_blue",
+    "texture": "c93efa4c-22ac-4e18-a5e8-ae26f910e15d",
+    "atlas": "",
+    "rect": [
+      36,
+      27,
+      85,
+      95
+    ],
+    "offset": [
+      3.5,
+      0.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_undine",
+    "texture": "b2d056b4-021e-42c8-b059-d6ad647d2b48",
+    "atlas": "",
+    "rect": [
+      29,
+      34,
+      103,
+      98
+    ],
+    "offset": [
+      5.5,
+      -8
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_kill_hit",
+    "texture": "80b0a5da-f73d-4a75-92b3-41f14caefed6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      292,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      292,
+      18
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_cipacret",
+    "texture": "6270c128-c02b-4f94-a934-da918e85af22",
+    "atlas": "",
+    "rect": [
+      21,
+      23,
+      101,
+      104
+    ],
+    "offset": [
+      -3.5,
+      0
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

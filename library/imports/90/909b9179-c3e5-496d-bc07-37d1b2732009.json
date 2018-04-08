@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_blade_light",
+    "texture": "e196b2d5-9c0b-4faf-abab-af1806f66150",
+    "atlas": "",
+    "rect": [
+      40,
+      9,
+      469,
+      75
+    ],
+    "offset": [
+      -9,
+      0.5
+    ],
+    "originalSize": [
+      567,
+      94
+    ]
+  }
+}

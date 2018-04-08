@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_oceaking",
+    "texture": "695911af-bef0-44f6-91e0-456c1b0066dc",
+    "atlas": "",
+    "rect": [
+      29,
+      26,
+      91,
+      105
+    ],
+    "offset": [
+      -0.5,
+      -3.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

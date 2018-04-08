@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "send",
+    "texture": "3fdc1561-6e07-4541-a492-0a9c0d0a8b53",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      93,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      54
+    ]
+  }
+}

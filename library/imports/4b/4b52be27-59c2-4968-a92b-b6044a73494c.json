@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_blade",
+    "texture": "772f3618-32ad-4719-a1ed-613cf914a21e",
+    "atlas": "",
+    "rect": [
+      14,
+      1,
+      23,
+      331
+    ],
+    "offset": [
+      -2.5,
+      8.5
+    ],
+    "originalSize": [
+      56,
+      350
+    ]
+  }
+}

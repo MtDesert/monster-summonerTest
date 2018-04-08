@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ba_icon_kills",
+    "texture": "8ee95ef1-f2a7-4d7b-8f57-119d011be9ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      18,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      18,
+      16
+    ]
+  }
+}

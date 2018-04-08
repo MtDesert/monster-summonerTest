@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pa_retry",
+    "texture": "c13c0ba8-74f5-441e-a0ad-00718fd40e29",
+    "atlas": "",
+    "rect": [
+      23,
+      20,
+      136,
+      119
+    ],
+    "offset": [
+      6,
+      0.5
+    ],
+    "originalSize": [
+      170,
+      160
+    ]
+  }
+}

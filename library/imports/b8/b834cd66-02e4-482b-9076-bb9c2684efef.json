@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "over_icon_time",
+    "texture": "490e8fc3-73b9-4c10-b5e8-eb8694b49b83",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      21
+    ]
+  }
+}

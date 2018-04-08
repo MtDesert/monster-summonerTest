@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "over_best_light",
+    "texture": "65db3fde-60b5-4407-89fe-0db54fe93826",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      302,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      302,
+      105
+    ]
+  }
+}

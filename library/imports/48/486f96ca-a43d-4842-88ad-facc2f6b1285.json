@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_stroke",
+    "texture": "13914c2c-9baa-44fe-954d-aab039af27f3",
+    "atlas": "3d7076eb-dfd5-40ee-99dd-c990da49b857",
+    "rect": [
+      1,
+      1363,
+      136,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      136
+    ]
+  }
+}

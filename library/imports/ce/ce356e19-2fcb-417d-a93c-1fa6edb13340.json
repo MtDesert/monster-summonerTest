@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_rank",
+    "texture": "98991a8d-7b30-4307-b381-854f0b5f43cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      57
+    ]
+  }
+}

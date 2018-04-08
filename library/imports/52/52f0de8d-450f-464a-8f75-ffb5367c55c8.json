@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_norm",
+    "texture": "3da8522a-4497-4072-820f-4582803a355c",
+    "atlas": "",
+    "rect": [
+      21,
+      35,
+      109,
+      94
+    ],
+    "offset": [
+      0.5,
+      -7
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

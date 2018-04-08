@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "death_btn_cancle",
+    "texture": "72d15995-de58-4c53-873e-41c8c95e7da4",
+    "atlas": "",
+    "rect": [
+      11,
+      18,
+      264,
+      90
+    ],
+    "offset": [
+      1,
+      -2
+    ],
+    "originalSize": [
+      284,
+      122
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enligsh-chinese",
+    "texture": "b5d76ce1-6fcf-4dd0-9c2b-8139326d0bb6",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      501,
+      171
+    ],
+    "offset": [
+      -2.5,
+      40.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ]
+  }
+}

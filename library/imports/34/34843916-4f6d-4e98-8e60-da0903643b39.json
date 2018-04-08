@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_scorpion_king",
+    "texture": "ff25b949-7daf-4f38-9ebc-4adf47a07c64",
+    "atlas": "",
+    "rect": [
+      39,
+      28,
+      80,
+      106
+    ],
+    "offset": [
+      4,
+      -6
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

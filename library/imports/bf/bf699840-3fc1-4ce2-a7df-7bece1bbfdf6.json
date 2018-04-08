@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_renwu",
+    "texture": "c8549102-3e8b-4c89-aaeb-4a5231db3b4d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      65
+    ]
+  }
+}

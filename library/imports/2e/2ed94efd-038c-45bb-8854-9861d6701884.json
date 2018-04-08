@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_木乃伊变色",
+    "texture": "72311a52-c967-407b-844d-3934e714506b",
+    "atlas": "",
+    "rect": [
+      30,
+      23,
+      92,
+      94
+    ],
+    "offset": [
+      1,
+      5
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

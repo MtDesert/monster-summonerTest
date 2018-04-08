@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Stroke_photo_oneself",
+    "texture": "50936d22-ee78-4bd4-a159-f45f4b290b7a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      135
+    ]
+  }
+}
