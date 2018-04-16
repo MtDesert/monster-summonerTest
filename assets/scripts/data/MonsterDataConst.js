@@ -28,7 +28,7 @@ const Race={//种族
 	Human:0,//人类
 	Beast:1,//兽族
 	Dragon:2,//龙族
-	Demon:3,//魔法族
+	Magic:3,//魔法族
 
 }
 const MoveType={//移动类型
@@ -80,12 +80,12 @@ const monsterDataList=[
 	explain:"恪尽职守的他们是最强韧的士兵吧。",
 	atkType:{attrib:Attribute.None,type:AttackType.Direct,isMagic:false,through:false}},
 
-	{num:7,name:"女武神",race:Race.Demon,lv:2,moveType:MoveType.Walk,
+	{num:7,name:"女武神",race:Race.Magic,lv:2,moveType:MoveType.Walk,
 	health:280,skill:0,attack:20,range:1,speed:45,move:7,mp:7,summon:8,physicDamage:0.9,magicDamage:0.9,
 	explain:"她们手中的魔法剑，会带给敌人难以治好的伤口。",
 	atkType:{attrib:Attribute.None,type:AttackType.Direct,isMagic:false,through:false}},
 
-	{num:8,name:"小魔女",race:Race.Demon,lv:2,moveType:MoveType.Fly,
+	{num:8,name:"小魔女",race:Race.Magic,lv:2,moveType:MoveType.Fly,
 	health:160,skill:0,attack:25,range:7,speed:24,move:7,mp:5,summon:14,physicDamage:1.0,magicDamage:1.0,
 	explain:"魔族第一的恶作剧达人。跨坐在扫帚上战斗时，总是让人非常的困扰。",
 	atkType:{attrib:Attribute.Fire,type:AttackType.Indirect,isMagic:true,through:false}},
@@ -99,6 +99,56 @@ const monsterDataList=[
 	health:300,skill:0,attack:25,range:8,speed:26,move:5,mp:7,summon:18,physicDamage:0.7,magicDamage:1.3,
 	explain:"吸收海洋生命的精华而诞生的大型龙。其身姿起源于太古时代某种灭绝的生物。",
 	atkType:{attrib:Attribute.Fire,type:AttackType.Indirect,isMagic:false,through:false}},
+
+	{num:11,name:"魔法兔子",race:Race.Magic,lv:1,moveType:MoveType.Walk,
+	health:200,skill:0,attack:25,range:2,speed:53,move:8,mp:6,summon:7,physicDamage:1.0,magicDamage:1.0,
+	explain:"太古时毁灭的文明留下的玩偶型机器人。这只小兔子引起的种种不可思议的现象，其实都是科学的力量。",
+	atkType:{attrib:Attribute.None,type:AttackType.Direct,isMagic:true,through:false}},
+
+	{num:12,name:"攻城龙",race:Race.Dragon,lv:3,moveType:MoveType.Walk,
+	health:550,skill:0,attack:200,range:2,speed:40,move:5,mp:20,summon:40,physicDamage:0.6,magicDamage:1.1,
+	explain:"圣界3大巨龙之一。以龙族第一重为题。体型小的怪物什么的会被轻易地踩死。",
+	atkType:{attrib:Attribute.None,type:AttackType.Direct,isMagic:false,through:false}},
+
+	{num:13,name:"复仇枯木",race:Race.Beast,lv:2,moveType:MoveType.Walk,
+	health:80,skill:0,attack:40,range:11,speed:12,move:4,mp:8,summon:23,physicDamage:1.0,magicDamage:0.7,
+	explain:"被砍伐的树木，为了复仇站起来了。虽然种子炸弹很强，但它们似乎忘了复仇对象的脸。",
+	atkType:{attrib:Attribute.None,type:AttackType.Bomb,isMagic:false,through:false}},
+
+	{num:14,name:"稻草人魔像",race:Race.Beast,lv:2,moveType:MoveType.Walk,
+	health:260,skill:0,attack:11,range:1,speed:64,move:7,mp:5,summon:5,physicDamage:0.9,magicDamage:0.9,
+	explain:"本来要被丢掉的破旧魔像被农夫塔里当做「稻草人」，赋予了生存之道。",
+	atkType:{attrib:Attribute.None,type:AttackType.Direct,isMagic:false,through:false}},
+
+	{num:15,name:"雷之魔导士",race:Race.Magic,lv:2,moveType:MoveType.Walk,
+	health:220,skill:10,attack:15,range:8,speed:21,move:5,mp:10,summon:18,physicDamage:1.0,magicDamage:1.0,
+	explain:"4大魔导士之一。能自由地操纵雷云的魔导士，能伤害对手，甚至夺取其运动能力。",
+	atkType:{attrib:Attribute.Thunder,type:AttackType.Indirect,isMagic:true,through:false}},
+
+	{num:16,name:"乌龟加农炮",race:Race.Beast,lv:2,moveType:MoveType.Swin,
+	health:100,skill:0,attack:30,range:13,speed:10,move:3,mp:7,summon:20,physicDamage:1.0,magicDamage:0.7,
+	explain:"原本很温和的乌龟，却被安装了强力巨炮，变成了非常可怕的「移动炮台」。",
+	atkType:{attrib:Attribute.Noadne,type:AttackType.Bomb,isMagic:false,through:false}},
+
+	{num:17,name:"小鸦天狗",race:Race.Beast,lv:2,moveType:MoveType.Fly,
+	health:200,skill:0,attack:22,range:2,speed:80,move:9,mp:7,summon:6,physicDamage:1.0,magicDamage:0.6,
+	explain:"从人迹罕至的深山飞来的妖怪。使用充满了神通力的竹竿惩罚恶人。",
+	atkType:{attrib:Attribute.None,type:AttackType.Direct,isMagic:false,through:false}},
+
+	{num:18,name:"海盗船长",race:Race.Beast,lv:2,moveType:MoveType.Swin,
+	health:170,skill:0,attack:25,range:8,speed:21,move:6,mp:8,summon:18,physicDamage:1.0,magicDamage:0.7,
+	explain:"装在手上的大炮，是为了与敌人的海盗船或鲸鱼战斗。他所到之处都会成为一片血海。",
+	atkType:{attrib:Attribute.None,type:AttackType.Bomb,isMagic:false,through:false}},
+
+	{num:19,name:"鬼面炮",race:Race.Beast,lv:2,moveType:MoveType.Walk,
+	health:100,skill:0,attack:50,range:11,speed:12,move:6,mp:10,summon:27,physicDamage:0.6,magicDamage:1.1,
+	explain:"霍伊莱工房制作的炮击机器人。最初只是用来放烟火。",
+	atkType:{attrib:Attribute.None,type:AttackType.Bomb,isMagic:false,through:false}},
+
+	{num:20,name:"球根加农炮",race:Race.Beast,lv:2,moveType:MoveType.Walk,
+	health:80,skill:0,attack:20,range:11,speed:21,move:7,mp:6,summon:15,physicDamage:1.0,magicDamage:0.9,
+	explain:"为了驱赶糟蹋田地者，球根甚至会发射种子炸弹。",
+	atkType:{attrib:Attribute.None,type:AttackType.Bomb,isMagic:false,through:false}},
 ]
 
 module.exports = {
