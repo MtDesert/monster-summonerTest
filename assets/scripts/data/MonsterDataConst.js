@@ -23,13 +23,13 @@ attrib属性Attribute,可能是相克时候用到
 type攻击类型AttackType
 isMagic物魔性boolean,物理为false,魔法为true
 through贯通boolean,是否能贯通攻击,false表示攻击会被对方接下而不会往后继续传递
+wideRange大范围boolean,是否属于大范围攻击
 */
 const Race={//种族
 	Human:0,//人类
 	Beast:1,//兽族
 	Dragon:2,//龙族
 	Magic:3,//魔法族
-
 }
 const MoveType={//移动类型
 	Walk:0,//步行
@@ -149,12 +149,120 @@ const monsterDataList=[
 	health:80,skill:0,attack:20,range:11,speed:21,move:7,mp:6,summon:15,physicDamage:1.0,magicDamage:0.9,
 	explain:"为了驱赶糟蹋田地者，球根甚至会发射种子炸弹。",
 	atkType:{attrib:Attribute.None,type:AttackType.Bomb,isMagic:false,through:false}},
+
+	{num:21,name:"杀人蔬菜",race:Race.Beast,lv:2,moveType:MoveType.Walk,
+	health:210,skill:0,attack:20,range:1,speed:64,move:7,mp:6,summon:7,physicDamage:1.0,magicDamage:0.7,
+	explain:"被丢弃在野外的野菜们，汇聚憎恨化成了阿尼玛。打算用怨念缜绕剪刀收割生灵的首级。",
+	atkType:{attrib:Attribute.None,type:AttackType.Direct,isMagic:false,through:false}},
+
+	{num:22,name:"三头龙",race:Race.Dragon,lv:3,moveType:MoveType.Walk,
+	health:500,skill:0,attack:10,range:8,speed:14,move:5,mp:25,summon:46,physicDamage:0.7,magicDamage:1.3,
+	explain:"圣界的3大巨龙之一。由3个龙首迸发的强大力量，来自于异次元。",
+	atkType:{attrib:Attribute.None,type:AttackType.Indirect,isMagic:false,through:true}},
+
+	{num:23,name:"圣母龙",race:Race.Dragon,lv:3,moveType:MoveType.Walk,
+	health:450,skill:10,attack:10,range:8,speed:26,move:5,mp:20,summon:38,physicDamage:0.6,magicDamage:1.4,
+	explain:"圣界3大巨龙之一。以龙族第一没为题。同时也有巨大的力量，眼里充满了慈爱。",
+	atkType:{attrib:Attribute.None,type:AttackType.Indirect,isMagic:false,through:true}},
+
+	{num:24,name:"古斯塔夫D",race:Race.Beast,lv:2,moveType:MoveType.Fly,
+	health:150,skill:0,attack:20,range:8,speed:21,move:8,mp:7,summon:15,physicDamage:1.0,magicDamage:0.7,
+	explain:"不知何时开始，飞船里寄宿这邪恶的灵魂，不断用大炮攻击地上的生物。",
+	atkType:{attrib:Attribute.None,type:AttackType.Bomb,isMagic:false,through:false}},
+
+	{num:25,name:"猎头婆婆",race:Race.Magic,lv:2,moveType:MoveType.Fly,
+	health:160,skill:0,attack:100,range:1,speed:17,move:9,mp:6,summon:17,physicDamage:0.9,magicDamage:1.0,
+	explain:"拥有诅咒道具「斩首大镰」的魔法师，曾经反反复复进行着恐怖的屠杀。",
+	atkType:{attrib:Attribute.None,type:AttackType.Direct,isMagic:true,through:false,wideRange:true}},
+
+	{num:26,name:"云魔神",race:Race.Magic,lv:2,moveType:MoveType.Fly,
+	health:160,skill:0,attack:20,range:7,speed:15,move:7,mp:6,summon:11,physicDamage:1.0,magicDamage:1.0,
+	explain:"据说是经常出现在遇到困难的人面前温柔的魔人。会从受到帮助的人那里要求甜食作为回礼。",
+	atkType:{attrib:Attribute.Thunder,type:AttackType.Indirect,isMagic:true,through:false}},
+
+	{num:27,name:"耀晶龙",race:Race.Dragon,lv:3,moveType:MoveType.Walk,
+	health:550,skill:180,attack:10,range:8,speed:26,move:5,mp:25,summon:36,physicDamage:0.6,magicDamage:1.4,
+	explain:"最接近神域的巨龙。她身上的水晶闪耀着充满了神圣感的光辉.",
+	atkType:{attrib:Attribute.None,type:AttackType.Indirect,isMagic:false,through:true}},
+
+	{num:28,name:"冰晶灵",race:Race.Magic,lv:2,moveType:MoveType.Walk,
+	health:160,skill:0,attack:15,range:7,speed:21,move:6,mp:6,summon:12,physicDamage:1.0,magicDamage:1.0,
+	explain:"寄宿在冰块里的怪物。能够自由的操纵冰。",
+	atkType:{attrib:Attribute.Ice,type:AttackType.Indirect,isMagic:true,through:false}},
+
+	{num:29,name:"红莲加农炮",race:Race.Beast,lv:3,moveType:MoveType.Walk,
+	health:220,skill:0,attack:30,range:8,speed:17,move:6,mp:10,summon:20,physicDamage:1.0,magicDamage:0.7,
+	explain:"H99研究所制造的骇人听闻的机器人。本来应该守护城寨的大炮，被安装在它的头上。",
+	atkType:{attrib:Attribute.None,type:AttackType.Direct,isMagic:false,through:true}},
+
+	{num:30,name:"幻象师沙汗",race:Race.Magic,lv:2,moveType:MoveType.Fly,
+	health:160,skill:0,attack:15,range:8,speed:18,move:8,mp:6,summon:10,physicDamage:1.0,magicDamage:1.0,
+	explain:"这个幻象师得到自由在空中飞行的力量后，开始复仇欺负过自己的人。",
+	atkType:{attrib:Attribute.Ground,type:AttackType.Indirect,isMagic:true,through:false}},
 ]
+
+//种族克制(单向)表
+const RaceRestrainArray=[
+	[Race.Beast ,Race.Dragon],
+	[Race.Dragon,Race.Magic],
+	[Race.Magic ,Race.Beast],
+];
+//属性克制(双向)表
+const AttributeRestrainArray=[
+	[Attribute.Fire,Attribute.Ice],
+	[Attribute.Thunder,Attribute.Ground],
+];
+//种族克制系数
+function raceRestrainFactor(atkRace,defRace){
+	var atk=[atkRace,defRace];
+	var def=[defRace,atkRace];
+	var arr=RaceRestrainArray;
+	for(var i=0;i<arr.length;++i){
+		if(atk[0]===arr[i][0] && atk[1]===arr[i][1])return 1.2;
+		if(def[0]===arr[i][0] && def[1]===arr[i][1])return 0.8;
+	}
+	return 1;
+}
+//属性克制系数
+function attributeRestrainFactor(atkAttr,defAttr){
+	var atk=[atkAttr,defAttr];
+	var def=[defAttr,atkAttr];
+	var arr=AttributeRestrainArray;
+	for(var i=0;i<arr.length;++i){
+		if(atk[0]===arr[i][0] && atk[1]===arr[i][1])return 1.5;
+		if(def[0]===arr[i][0] && def[1]===arr[i][1])return 1.5;
+	}
+	return 1;
+}
 
 module.exports = {
 	Race,
 	MoveType,
 	Attribute,
 	AttackType,
+	RaceRestrainArray,
+	AttributeRestrainArray,
+	raceRestrainFactor,
+	attributeRestrainFactor,
 	monsterDataList
+}
+
+//test
+console.log("种族克制情况")
+for(var i in Race){
+	for(var j in Race){
+		var factor=raceRestrainFactor(Race[i],Race[j]);
+		if(factor!=1){
+			console.log(i+"打"+j+"造成"+factor+"倍损伤");
+		}
+	}
+}
+console.log("属性克制情况")
+for(var i in Attribute){
+	for(var j in Attribute){
+		var factor=attributeRestrainFactor(Attribute[i],Attribute[j]);
+		if(factor!=1){
+			console.log(i+"打"+j+"造成"+factor+"倍损伤");
+		}
+	}
 }
