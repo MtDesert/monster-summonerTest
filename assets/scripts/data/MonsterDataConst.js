@@ -48,7 +48,7 @@ const monsterDataList=[
 		Feature.DefenceRateIgnore,
 		Feature.Stealth,
 		Feature.Aquatic
-	],Null:-1},
+	]},
 
 	{num:1,name:"弧光龙",race:Race.Dragon,lv:2,moveType:MoveType.Walk,
 	health:50,skill:0,attack:25,range:8,speed:26,move:6,mp:6,summon:15,physicDamage:0.7,magicDamage:1.2,
@@ -140,7 +140,7 @@ const monsterDataList=[
 	{num:16,name:"乌龟加农炮",race:Race.Beast,lv:2,moveType:MoveType.Swin,
 	health:100,skill:0,attack:30,range:13,speed:10,move:3,mp:7,summon:20,physicDamage:1.0,magicDamage:0.7,
 	explain:"原本很温和的乌龟，却被安装了强力巨炮，变成了非常可怕的「移动炮台」。",
-	atkType:{attrib:Attribute.Noadne,type:AttackType.Bomb},
+	atkType:{attrib:Attribute.None,type:AttackType.Bomb},
 	feature:[Feature.Aquatic,Feature.Break]},
 
 	{num:17,name:"小鸦天狗",race:Race.Beast,lv:2,moveType:MoveType.Fly,
