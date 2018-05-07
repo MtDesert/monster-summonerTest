@@ -651,44 +651,14 @@ const monsterDataList=[
 	feature:[Feature.Capture]},
 ]
 
-//种族克制(单向)表
-const RaceRestrainArray=[
-	[Race.Beast ,Race.Dragon],
-	[Race.Dragon,Race.Magic],
-	[Race.Magic ,Race.Beast],
-];
-//属性克制(双向)表
-const AttributeRestrainArray=[
-	[Attribute.Fire,Attribute.Ice],
-	[Attribute.Thunder,Attribute.Ground],
-];
-//种族克制系数
-function raceRestrainFactor(atkRace,defRace){
-	var atk=[atkRace,defRace];
-	var def=[defRace,atkRace];
-	var arr=RaceRestrainArray;
-	for(var i=0;i<arr.length;++i){
-		if(atk[0]===arr[i][0] && atk[1]===arr[i][1])return 1.2;
-		if(def[0]===arr[i][0] && def[1]===arr[i][1])return 0.8;
+//获取怪物数据(编号),返回对应的const数据,找不到返回undefined
+function getMonsterData(num){
+	for(var data in monsterDataList){
+		if(data.num===num)return data;
 	}
-	return 1;
-}
-//属性克制系数
-function attributeRestrainFactor(atkAttr,defAttr){
-	var atk=[atkAttr,defAttr];
-	var def=[defAttr,atkAttr];
-	var arr=AttributeRestrainArray;
-	for(var i=0;i<arr.length;++i){
-		if(atk[0]===arr[i][0] && atk[1]===arr[i][1])return 1.5;
-		if(def[0]===arr[i][0] && def[1]===arr[i][1])return 1.5;
-	}
-	return 1;
 }
 
 module.exports = {
-	RaceRestrainArray,
-	AttributeRestrainArray,
-	raceRestrainFactor,
-	attributeRestrainFactor,
-	monsterDataList
+	monsterDataList,
+	getMonsterData
 }

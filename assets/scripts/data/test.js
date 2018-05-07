@@ -1,26 +1,7 @@
 var MonsterEnum = require('./MonsterEnum')
 var MDC = require('./MonsterDataConst')
+var MonsterFunction = require('./MonsterFunction')
 
-/*
-//test
-console.log("种族克制情况")
-for(var i in MDC.Race){
-	for(var j in MDC.Race){
-		var factor=MDC.raceRestrainFactor(MDC.Race[i],MDC.Race[j]);
-		if(factor!=1){
-			console.log(i+"打"+j+"造成"+factor+"倍损伤");
-		}
-	}
-}
-console.log("属性克制情况")
-for(var i in MDC.Attribute){
-	for(var j in MDC.Attribute){
-		var factor=MDC.attributeRestrainFactor(MDC.Attribute[i],MDC.Attribute[j]);
-		if(factor!=1){
-			console.log(i+"打"+j+"造成"+factor+"倍损伤");
-		}
-	}
-}*/
 //保存错误信息的数组
 var errorArray=[];
 
@@ -158,6 +139,36 @@ if(errorArray.length>0){
 	//释放内存
 	errorArray.splice(0,errorArray.length);
 	delete errorArray;
+	return;
 }else{
 	console.log("没发现问题");
+}
+
+//测试代码
+console.log("种族克制情况")
+for(var i in MonsterEnum.Race){
+	for(var j in MonsterEnum.Race){
+		var factor=MonsterFunction.raceRestrainFactor(MonsterEnum.Race[i],MonsterEnum.Race[j]);
+		if(factor!=1){
+			console.log(i+"打"+j+"造成"+factor+"倍损伤");
+		}
+	}
+}
+console.log("属性克制情况")
+for(var i in MonsterEnum.Attribute){
+	for(var j in MonsterEnum.Attribute){
+		var factor=MonsterFunction.attributeRestrainFactor(MonsterEnum.Attribute[i],MonsterEnum.Attribute[j]);
+		if(factor!=1){
+			console.log(i+"打"+j+"造成"+factor+"倍损伤");
+		}
+	}
+}
+console.log("移动攻击类型克制情况")
+for(var i in MonsterEnum.MoveAttackType){
+	for(var j in MonsterEnum.MoveAttackType){
+		var factor=MonsterFunction.moveAttackTypeRestrainFactor(MonsterEnum.MoveAttackType[i],MonsterEnum.MoveAttackType[j]);
+		if(factor!=1){
+			console.log(i+"打"+j+"造成"+factor+"倍损伤");
+		}
+	}
 }

@@ -54,7 +54,13 @@ const Status={
 	Dizzy:2,//眩晕,通常是雷属性造成
 	Confuse:3,//混乱,通常是地属性造成
 }
+const MoveAttackType={//移动攻击类型,特殊规则,用于推断
+	GroundDirect:0,
+	GroundIndirect:1,
+	Fly:2,
+	Others:3
+}
 
 module.exports={
-	Race,MoveType,Attribute,AttackType,Feature,Status
+	Race,MoveType,Attribute,AttackType,Feature,Status,MoveAttackType
 }
