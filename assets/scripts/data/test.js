@@ -149,7 +149,7 @@ console.log("种族克制情况")
 for(var i in MonsterEnum.Race){
 	for(var j in MonsterEnum.Race){
 		var factor=MonsterFunction.raceRestrainFactor(MonsterEnum.Race[i],MonsterEnum.Race[j]);
-		if(factor!=1){
+		if(factor!==1){
 			console.log(i+"打"+j+"造成"+factor+"倍损伤");
 		}
 	}
@@ -158,7 +158,7 @@ console.log("属性克制情况")
 for(var i in MonsterEnum.Attribute){
 	for(var j in MonsterEnum.Attribute){
 		var factor=MonsterFunction.attributeRestrainFactor(MonsterEnum.Attribute[i],MonsterEnum.Attribute[j]);
-		if(factor!=1){
+		if(factor!==1){
 			console.log(i+"打"+j+"造成"+factor+"倍损伤");
 		}
 	}
@@ -167,8 +167,19 @@ console.log("移动攻击类型克制情况")
 for(var i in MonsterEnum.MoveAttackType){
 	for(var j in MonsterEnum.MoveAttackType){
 		var factor=MonsterFunction.moveAttackTypeRestrainFactor(MonsterEnum.MoveAttackType[i],MonsterEnum.MoveAttackType[j]);
-		if(factor!=1){
+		if(factor!==1){
 			console.log(i+"打"+j+"造成"+factor+"倍损伤");
+		}
+	}
+}
+console.log("怪物克制情况")
+for(var a in MDC.monsterDataList){
+	for(var b in MDC.monsterDataList){
+		var dataA=MDC.monsterDataList[a];
+		var dataB=MDC.monsterDataList[b];
+		var factor=MonsterFunction.allRestrainFactor(dataA,dataB);
+		if(factor!==1){
+			console.log(dataA.name+" 打 "+dataB.name+" 造成 "+factor+" 倍损伤");
 		}
 	}
 }
