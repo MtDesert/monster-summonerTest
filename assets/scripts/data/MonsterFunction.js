@@ -6,14 +6,7 @@ var MonsterDataConst=require("./MonsterDataConst")
 for(var name in MonsterDataConst){
 	eval("const "+name+"=MonsterDataConst."+name);
 }
-
-//恶心的javascript小数误差,用此乘法来减少误差
-Number.prototype.multiply=function(arg){ 
-	var m=0,s1=parseFloat(this).toString(),s2=arg.toString(); 
-	try{m+=s1.split(".")[1].length}catch(e){} 
-	try{m+=s2.split(".")[1].length}catch(e){} 
-	return Number(s1.replace(".",""))*Number(s2.replace(".",""))/Math.pow(10,m)
-}
+require("./JavaScript")
 
 //种族克制(单向)关系
 const RaceRestrainRelation=[
@@ -76,9 +69,9 @@ function getMoveAttackType(monsterData){
 //克制系数(攻击方数据,防御方数据)
 function allRestrainFactor(atkMonsterDataA,atkMonsterDataB){
 	if(atkMonsterDataA && atkMonsterDataB){
-		var raceFactor=raceRestrainFactor(atkMonsterDataA.race,atkMonsterDataA.race);
-		var attrFactor=attributeRestrainFactor(atkMonsterDataA.atkType.attrib,atkMonsterDataB.atkType.attrib);
-		var moveAttackFactor=moveAttackTypeRestrainFactor(
+		var raceFactor=raceRestrainFactor(atkMonsterDataA.race,atkMonsterDataA.race);//种族克制系数
+		var attrFactor=attributeRestrainFactor(atkMonsterDataA.atkType.attrib,atkMonsterDataB.atkType.attrib);//属性克制系数
+		var moveAttackFactor=moveAttackTypeRestrainFactor(//移动攻击克制系数
 			getMoveAttackType(atkMonsterDataA),
 			getMoveAttackType(atkMonsterDataB)
 		);
