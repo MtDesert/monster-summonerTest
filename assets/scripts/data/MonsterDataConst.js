@@ -658,7 +658,27 @@ function getMonsterData(num){
 	}
 }
 
+//怪物构造函数
+function Monster(num){
+	var data=getMonsterData(num);
+	if(data){
+		var monster={
+			monsterData:data,//基础数据,可直接读取
+			hp:data.health,//HP大家都懂的
+			position:{x:0,y:0},//位置坐标
+			player:undefined,//所属玩家
+			moveSlice:0,//周期为1秒,一个周期能移动的距离由移动速度决定
+			attackSlice:0,//周期为40秒,一个周期能攻击的次数由攻击速度决定
+			skillSlice:0,//使用技能(特定怪物才有技能)后,时间变为怪物静态数据的技能值(单位秒),并开始倒计时
+			status:Status.Normal,//状态，异常状态可放此
+			movePath:null,//通过寻路算法得到的结果,怪物任何时候都会试图往目的地移动,想停下就要清除这个数据
+		}
+		return monster;
+	}
+}
+
 module.exports = {
 	monsterDataList,
-	getMonsterData
+	getMonsterData,
+	Monster
 }
