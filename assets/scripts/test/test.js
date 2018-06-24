@@ -38,6 +38,7 @@ function checkEnum(enumTypeName,Enum){
 
 //怪物数据的各个属性的对应类型[变量名,变量类型]
 var nameTypeArray={
+	num:"number",
 	name:"string",
 	race:"number",
 	lv:"number",
@@ -62,7 +63,7 @@ var nameTypeArray={
 	feature:["number"],
 }
 
-//检查类型(待检测的obj,标准的object)
+//检查类型(下标,待检测的obj,标准的object)
 function checkType(id,obj,object){
 	for(var name in object){
 		var type=object[name];
@@ -121,11 +122,9 @@ for(var name in MonsterEnum){//检查所有导出的枚举类型
 }
 if(MDC.monsterDataList instanceof Array){//检查所有怪物数据
 	//检查每个怪物的数据
-	for(var id=0;id<MDC.monsterDataList.length;++id){
-		var monster=MDC.monsterDataList[id];
-		//开始检查属性表
-		checkType(id,monster,nameTypeArray);
-	}
+	MDC.monsterDataList.forEach(function(monster,index,array){
+		checkType(index,monster,nameTypeArray);
+	})
 }else{
 	errorArray.push("没有怪物数据表");
 }

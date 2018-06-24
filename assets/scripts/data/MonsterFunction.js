@@ -28,6 +28,7 @@ const MoveAttackTypeRestrainRelation=[
 	[MoveAttackType.GroundIndirect,MoveAttackType.Fly],
 ];
 
+//克制系数(攻击方,防御方,数组,克制返回值,被克制返回值)
 function restrainFactor(attacker,defender,arr,atkRet,defRet){
 	var atk=[attacker,defender];
 	var def=[defender,attacker];
@@ -79,6 +80,22 @@ function allRestrainFactor(atkMonsterDataA,atkMonsterDataB){
 	}
 }
 
+//损伤值(攻击数据,防御方怪物数据)
+function damage(attackData,defMonsterData){
+	if(atkData && defMonsterData){
+		var raceFactor=raceRestrainFactor(atkData.race,defMonsterData.race);//种族克制系数
+		var attrFactor=1;//属性克制系数
+		if(atkData.atkType && defMonsterData.atkType){
+			attrFactor=attributeRestrainFactor(atkData.atkType.attrib,defMonsterData.atkType.attrib);//属性克制系数
+		}
+		var moveAttackFactor=moveAttackTypeRestrainFactor(//移动攻击克制系数
+			getMoveAttackType(atkMonsterDataA),
+			getMoveAttackType(atkMonsterDataB)
+		);
+	}
+}
+
+//模块导出
 module.exports={
 	RaceRestrainRelation,
 	AttributeRestrainRelation,

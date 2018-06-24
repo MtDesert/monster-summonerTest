@@ -653,9 +653,9 @@ const monsterDataList=[
 
 //获取怪物数据(编号),返回对应的const数据,找不到返回undefined
 function getMonsterData(num){
-	for(var data in monsterDataList){
-		if(data.num===num)return data;
-	}
+	return monsterDataList.find(function(value){
+		return (value && value.num===num)
+	});
 }
 
 //怪物构造函数
